@@ -4,7 +4,7 @@ setup(
     name="agentscraper",
     version="0.1.0",
     author="Syed Syab Ahmad, Sania Shakeel",  # Keeping both authors as requested
-    author_email="Syab.se@hotmail.com, ayashal551@gmail.com",
+    author_email="syab.se@hotmail.com, ayashal551@gmail.com",
     description="Agent-based web scraping with LLM integration",  # Updated description
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
